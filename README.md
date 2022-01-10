@@ -13,12 +13,14 @@ Louise's campaign for her play "Fever" compares to the overall trend in theater 
 I created a pivot table from the Kickstarter dataset to visualize the campaign outcomes of successful, failed
 and canceled based on the Launch date.  The following image represents a line chart based on the results of the
 pivot table.
-![Theater_Outcomes_vs_Launch](C:\Users\deszj\OneDrive\Documents\Data Analytical Boot Camp\Resources\Theater_Outcomes_vs_Launch.png)
+
+![Theater_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 I also created a line graph that contains the visualization of percentage of outcomes that shows the successful,
 failed and canceled plays based on the goals amount.  
-![Outcomes_vs_Goals](C:\Users\deszj\OneDrive\Documents\Data Analytical Boot Camp\Resources\Outcomes_vs_Goals.png)
+
+![Outcomes_vs_Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 One possible challenge while creating the Theater outcomes based on launch date is the fact that there was no month
